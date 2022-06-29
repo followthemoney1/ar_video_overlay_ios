@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="34px" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vector-1</title>
+    <defs>
+        <linearGradient x1="91.449827%" y1="100%" x2="-6.66177076%" y2="49.9741176%" id="linearGradient-1">
+            <stop stop-color="#F9536B" offset="0%"></stop>
+            <stop stop-color="#C162AE" offset="47.9994%"></stop>
+            <stop stop-color="#7F6CF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vector-1" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M28.0978,4.89123 C24.9891,1.78947 20.8043,0 16.1413,0 L3.22106,0 C1.44212,0 0,1.44211 0,3.22105 C0,5 1.44211,6.4421 3.22105,6.4421 L16.0217,6.4421 C18.8913,6.4421 21.5217,7.63509 23.4348,9.54386 C25.3478,11.4526 26.5435,14.0772 26.5435,16.9403 L26.5435,30.7717 C26.5435,32.5547 27.9888,34 29.7717,34 C31.5547,34 33,32.5547 33,30.7717 L33,16.8211 C33,12.1684 31.087,7.99298 28.0978,4.89123 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
